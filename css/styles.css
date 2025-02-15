@@ -216,8 +216,7 @@ letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
 color: #2e2f42;
-padding-top: 120px;
-padding-bottom: 72px;
+
 margin-bottom: 72px;
 }
 .team-list {
@@ -249,7 +248,7 @@ font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
 text-align: center;
-padding-bottom: 8px;
+
 margin-bottom: 8px;
 color: #2e2f42;
 }
@@ -276,8 +275,8 @@ letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
 color: #2e2f42;
-padding-top: 120px;
-padding-bottom: 72px;
+
+
 margin-bottom: 72px; 
 
 }
@@ -286,7 +285,7 @@ margin-bottom: 72px;
     flex-wrap: wrap;
     column-gap: 24px;
     row-gap: 48px;
-    padding: 32px 16px
+    
 }
 .portfolio-item {
     
@@ -300,7 +299,7 @@ line-height: 1.2;
 letter-spacing: 0.02em;
 color: #2e2f42;
 padding-top: 32px;
-padding-bottom: 8px;
+
 padding-left: 16px;
 margin-bottom: 8px 
     
